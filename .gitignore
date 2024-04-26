@@ -35,24 +35,6 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-# Visual Studio project files
-*.csproj
-*.ruleset
-*.sln
-*.suo
-*.tmp
-*.user
-*.userosscache
-*.vspscc
-*.vssscc
-.vscode/
-
-# Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-*.sap
-
 # Tye
 .tye/
 
